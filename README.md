@@ -77,6 +77,3 @@ If you encounter bugs or want to suggest features, please use the [Issues tab](h
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Replace `yourusername` with your actual GitHub username. This README now accurately reflects the functionality of the **ChromeStatus** plugin and how to use it in Rainmeter skins.
