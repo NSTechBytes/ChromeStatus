@@ -55,31 +55,6 @@ Text="Chrome Installed: %1#CRLF#"
 In this example:
 - `%1` will display `1` if Chrome is installed, or `0` if it is not.
 
-### 2. Example Skin
-
-This example will display whether Google Chrome is installed on your system:
-
-```ini
-[Rainmeter]
-Update=1000
-
-[ChromeInstalled]
-Meter=Text
-Plugin=ChromeStatus
-Text=Google Chrome Installed: %1
-FontColor=255,255,255
-FontSize=14
-```
-
-This will show something like:
-```
-Google Chrome Installed: 1
-```
-If Chrome is installed, or:
-```
-Google Chrome Installed: 0
-```
-If Chrome is not installed.
 
 ## Parameters
 
